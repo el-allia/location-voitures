@@ -1,6 +1,5 @@
 package modele.strategie;
 
-import agenceLocation.modele.Reservation;
 
 public class TarificationAvecOptions implements Tarification {
 

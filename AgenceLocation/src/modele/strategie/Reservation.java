@@ -1,6 +1,6 @@
-package agenceLocation.modele;
-
-
+package modele.strategie;
+import agenceLocation.modele.Clients;
+import agenceLocation.modele.Voitures;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 

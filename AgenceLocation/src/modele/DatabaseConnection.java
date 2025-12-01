@@ -1,4 +1,4 @@
-package agenceLocation;
+package agenceLocation.modele;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

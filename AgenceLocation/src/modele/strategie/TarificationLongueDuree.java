@@ -1,5 +1,5 @@
 package modele.strategie;
-import agenceLocation.modele.Reservation;
+
 
 public class TarificationLongueDuree implements Tarification {
 

@@ -1,6 +1,8 @@
 package modele.strategie;
 
-import agenceLocation.modele.Reservation;
+import modele.strategie.Reservation;
+import modele.strategie.Tarification;
+
 public class TarificationNormale implements Tarification {
 
     @Override

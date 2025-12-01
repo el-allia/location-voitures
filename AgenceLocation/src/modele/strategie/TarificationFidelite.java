@@ -1,5 +1,5 @@
 package modele.strategie;
-import agenceLocation.modele.Reservation;
+
 public class TarificationFidelite implements Tarification {
 
     @Override
