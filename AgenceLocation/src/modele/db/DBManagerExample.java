@@ -1,11 +1,10 @@
 package modele.db;
 
 import modele.db.DBManager;
-import controleur.AgenceLocation;
+
 import agenceLocation.modele.DatabaseConnection;
 
-import agenceLocation.modele.Clients;
-import agenceLocation.modele.Voitures;
+
 import java.util.ArrayList;
 
 
